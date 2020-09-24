@@ -1,0 +1,14 @@
+li > * {
+    text-decoration: none;
+    color: white;
+}
+
+li {
+    padding: 2px;
+    margin-bottom: 4px;
+}
+
+ul {
+    list-style: none;
+    padding-inline-start: 20px;
+}
